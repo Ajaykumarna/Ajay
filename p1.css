@@ -1,0 +1,73 @@
+.a{
+    color: blueviolet;
+}
+.b{
+    color: rgb(29, 191, 191);
+}
+.c{
+    color: rgb(92, 146, 145);
+}
+.bk{
+    background: rgb(14, 84, 107);
+}
+.d{
+    color: rgb(138, 6, 6);
+}
+.tx{
+    text-decoration: none;
+    color: black;
+}
+.m{
+    margin-top: 15px;
+}
+.n{
+    margin-bottom: 15px;
+}
+.fb {
+    width: 55%;
+    margin-left: 24%;
+}
+#inputMobile{
+    width: 55%;
+}
+.btn:not(:disabled):not(.disabled) {
+    cursor: pointer;
+    width: 100px;
+}
+
+.f_a{
+    margin-left: 280px;
+    text-decoration: none;
+    color: #8a8d91;
+    cursor: pointer;
+    font-size: 12px;
+}
+.f_b{
+    text-decoration: none;
+    color: #8a8d91;
+    cursor: pointer;
+    font-size: 12px;
+}
+.f_c{
+    font-family: inherit;
+    font-size: 12px;
+    margin-left:3%;
+    
+}
+.f_d{
+
+color:#8a8d91;
+text-decoration: none;
+margin-left:3%;
+}
+.f_e{
+    font-family: inherit;
+    font-size: 12px;
+    margin-left:3%;
+}
+.bku{
+    background: rgb(1, 87, 115);
+}
+#home{
+    margin-top: 77px;
+}
